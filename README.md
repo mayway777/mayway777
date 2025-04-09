@@ -16,6 +16,7 @@
 ---
 # 🚀 EmpAI - AI 기반 맞춤형 취업 플랫폼  
 > **공식 배포 사이트**: [https://port-next-empai-m56dryza8b80f086.sel4.cloudtype.app](https://port-next-empai-m56dryza8b80f086.sel4.cloudtype.app) 임시주소
+---
 > GitHub: [Client](https://github.com/mayway77/empai-client) ｜ [Server](https://github.com/mayway77/empai-server)
 ---
  프로젝트 email : root1@naver.com, password : 123456
