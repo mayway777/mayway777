@@ -5,7 +5,8 @@
 # 🚀 EmpAI - AI 기반 맞춤형 취업 플랫폼  
 > **공식 배포 사이트**: [https://emp-ai.kro.kr](https://emp-ai.kro.kr)  
 > GitHub: [Client](https://github.com/mayway77/empai-client) ｜ [Server](https://github.com/mayway77/empai-server)
-> 프로젝트 email : root1@naver.com, password : 123456
+---
+ 프로젝트 email : root1@naver.com, password : 123456
                
 자기소개서 분석부터 AI 면접 피드백, 커뮤니티 기반 피드백까지 제공하는 **올인원 취업 플랫폼**입니다.
 
