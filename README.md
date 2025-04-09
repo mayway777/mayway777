@@ -15,7 +15,7 @@
 |            | 예약 시스템        | C#, WCF 기반 예약 처리 및 시각화 구현     |
 ---
 # 🚀 EmpAI - AI 기반 맞춤형 취업 플랫폼  
-> **공식 배포 사이트**: [https://emp-ai.kro.kr](https://emp-ai.kro.kr)  
+> **공식 배포 사이트**: [https://port-next-empai-m56dryza8b80f086.sel4.cloudtype.app](https://port-next-empai-m56dryza8b80f086.sel4.cloudtype.app) 임시주소
 > GitHub: [Client](https://github.com/mayway77/empai-client) ｜ [Server](https://github.com/mayway77/empai-server)
 ---
  프로젝트 email : root1@naver.com, password : 123456
