@@ -3,7 +3,7 @@
 ---
 
 # 🚀 EmpAI - AI 기반 맞춤형 취업 플랫폼  
-> **공식 배포 사이트**: [https://emp-ai.kr](https://emp-ai.kr)  
+> **공식 배포 사이트**: [https://emp-ai.kro.kr](https://emp-ai.kro.kr)  
 > GitHub: [Client](https://github.com/mayway77/empai-client) ｜ [Server](https://github.com/mayway77/empai-server)
 
 자기소개서 분석부터 AI 면접 피드백, 커뮤니티 기반 피드백까지 제공하는 **올인원 취업 플랫폼**입니다.
@@ -27,7 +27,7 @@
 | **Frontend** | Next.js, TypeScript, Tailwind | 사용자 인터페이스 및 피드백 뷰 |
 | **Backend** | FastAPI, Python | 분석 요청 처리, DB 관리 |
 | **AI 분석** | GPT, Whisper, Emotion/Tracking Model | 실시간 인터뷰 분석 |
-| **DB** | Firebase Firestore | 유저별 분석 결과 저장 |
+| **DB** | MongoDB | 유저별 분석 결과 저장 |
 
 ---
 
@@ -48,7 +48,7 @@
 - [프론트엔드 (React + Socket 통신)](https://github.com/mayway77/Risk_Detection_Client)
 
 ### ✅ 교통사고 분석 AI 솔루션
-> 대전 유성구 사고 데이터를 기반으로 사고 예측, 히트맵 시각화 제공  
+> 대전 유성구 사고 데이터를 기반으로 사고 예측, 히트맵 시각화 제공 및 솔루션 제시  
 [🔗 GitHub](https://github.com/mayway77/Daejeon_Yuseong_Accidents)
 
 ---
@@ -59,7 +59,7 @@
 |------------|-----------|------|
 | **WCF 가족오락관** | C#, WCF | 양방향 통신 미니게임 |
 | **휴게소 키오스크** | C#, WCF | 주문 흐름 기반 UI 시뮬레이션 |
-| **음식점 예약 시스템** | Python, Pandas, HTML | 예약 관리 및 시각화 실습 |
+| **음식점 예약 시스템** | C#, WCF | 예약 관리 및 시각화 실습 |
 
 ---
 
@@ -100,8 +100,6 @@ React 기반 시각화 클라이언트를 통해 **실시간 위험 대응 시�
 💬 **WCF 학습 프로젝트**  
 C# 기반 WCF를 활용한 가족오락관 게임, 키오스크, 예약 시스템 등  
 **통신 기반 프로그램의 구조와 흐름**을 실습했습니다.
-
-
 
 ---
 
