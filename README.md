@@ -17,6 +17,8 @@
 # 🚀 EmpAI - AI 기반 맞춤형 취업 플랫폼  
 > **공식 배포 사이트**: [https://www.empai.site/](https://www.empai.site/) 
 ---
+AI 자소서 첨삭과 AI 면접 분석은 이용불가합니다.(서버구동 x)
+---
  프로젝트 email : root1@naver.com, password : 123456
 ---
 > GitHub: [Client](https://github.com/mayway77/empai-client) ｜ [Server](https://github.com/mayway77/empai-server)
