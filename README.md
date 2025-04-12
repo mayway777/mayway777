@@ -133,4 +133,4 @@ C# 기반 WCF를 활용한 가족오락관 게임, 키오스크, 예약 시스�
 
 - Email: **kimminsu288@gmail.com**  
 - GitHub: [github.com/mayway77](https://github.com/mayway77)  
-- 포트폴리오 링크: [emp-ai.kro.kr](https://emp-ai.kro.kr)
+- 포트폴리오 링크:
