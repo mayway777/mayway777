@@ -62,12 +62,12 @@
 ### ✅ 관제 솔루션 - 위험 상황 감지 및 시각화
 > 실시간 낙상/화재 감지, 프론트-백 분리 구성
 
-- [분석 서버 (YOLOv5 + FastAPI)](https://github.com/mayway77/Risk_Detection_Server)  
-- [프론트엔드 (React + Socket 통신)](https://github.com/mayway77/Risk_Detection_Client)
+- [분석 서버 (YOLOv5 + FastAPI)](https://github.com/mayway777/Risk_Detection_Server)  
+- [프론트엔드 (React + Socket 통신)](https://github.com/mayway777/Risk_Detection_Client)
 
 ### ✅ 교통사고 분석 AI 솔루션
 > 대전 유성구 사고 데이터를 기반으로 사고 예측, 히트맵 시각화 제공 및 솔루션 제시  
-[🔗 GitHub](https://github.com/mayway77/Daejeon_Yuseong_Accidents)
+[🔗 GitHub](https://github.com/mayway777/Daejeon_Yuseong_Accidents)
 
 ---
 
