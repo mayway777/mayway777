@@ -21,7 +21,7 @@
 
 > 프로젝트 email : root1@naver.com, password : 123456
 ---
-> GitHub: [Client](https://github.com/mayway77/empai-client) ｜ [Server](https://github.com/mayway77/empai-server)
+> GitHub: [Client](https://github.com/mayway777/empai-client) ｜ [Server](https://github.com/mayway777/empai-server)
 
                
 자기소개서 분석부터 AI 면접 피드백, 커뮤니티 기반 피드백까지 제공하는 **올인원 취업 플랫폼**입니다.
@@ -132,5 +132,5 @@ C# 기반 WCF를 활용한 가족오락관 게임, 키오스크, 예약 시스�
 ## 📬 연락처
 
 - Email: **kimminsu288@gmail.com**  
-- GitHub: [github.com/mayway77](https://github.com/mayway77)  
+- GitHub: [github.com/mayway777](https://github.com/mayway777)  
 - 포트폴리오 링크:
